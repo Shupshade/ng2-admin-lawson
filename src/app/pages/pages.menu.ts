@@ -41,6 +41,14 @@ export const PAGES_MENU = [
                 title: '1810',
               }
             }
+          },
+          {
+            path: 'eighteenTwenty',
+            data: {
+              menu: {
+                title: '1820',
+              }
+            }
           }
         ]
       },

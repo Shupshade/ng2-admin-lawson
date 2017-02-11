@@ -8,6 +8,7 @@ import { routing }       from './editors.routing';
 import { Editors } from './editors.component';
 import { Ckeditor } from './components/ckeditor/ckeditor.component';
 import { EighteenTen } from './components/eighteenTen/eighteenTen.component';
+import { EighteenTwenty } from './components/eighteenTwenty/eighteenTwenty.component';
 
 @NgModule({
   imports: [
@@ -20,7 +21,8 @@ import { EighteenTen } from './components/eighteenTen/eighteenTen.component';
   declarations: [
     Editors,
     Ckeditor,
-    EighteenTen
+    EighteenTen,
+    EighteenTwenty
   ]
 })
 export class EditorsModule {
