@@ -7,7 +7,7 @@ import { NgaModule } from '../../theme/nga.module';
 import { routing }       from './editors.routing';
 import { Editors } from './editors.component';
 import { Ckeditor } from './components/ckeditor/ckeditor.component';
-
+import { EighteenTen } from './components/eighteenTen/eighteenTen.component';
 
 @NgModule({
   imports: [
@@ -19,7 +19,8 @@ import { Ckeditor } from './components/ckeditor/ckeditor.component';
   ],
   declarations: [
     Editors,
-    Ckeditor
+    Ckeditor,
+    EighteenTen
   ]
 })
 export class EditorsModule {

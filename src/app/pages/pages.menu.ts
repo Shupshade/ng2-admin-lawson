@@ -33,6 +33,14 @@ export const PAGES_MENU = [
                 title: 'CKEditor',
               }
             }
+          },
+          {
+            path: 'eighteenTen',
+            data: {
+              menu: {
+                title: '1810',
+              }
+            }
           }
         ]
       },
