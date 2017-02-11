@@ -253,7 +253,7 @@ export class BubbleMapsService {
     latlong['ZW'] = {'latitude': -20, 'longitude': 30};
 
     let mapData = [
-      {'code': 'AF', 'name': 'Afghanistan', 'value': 32358260, 'color': layoutColors.primaryDark},
+      /*{'code': 'AF', 'name': 'Afghanistan', 'value': 32358260, 'color': layoutColors.primaryDark},
       {'code': 'AL', 'name': 'Albania', 'value': 3215988, 'color': layoutColors.warning},
       {'code': 'DZ', 'name': 'Algeria', 'value': 35980193, 'color': layoutColors.danger},
       {'code': 'AO', 'name': 'Angola', 'value': 19618432, 'color': layoutColors.danger},
@@ -276,10 +276,11 @@ export class BubbleMapsService {
       {'code': 'BG', 'name': 'Bulgaria', 'value': 7446135, 'color': layoutColors.warning},
       {'code': 'BF', 'name': 'Burkina Faso', 'value': 16967845, 'color': layoutColors.danger},
       {'code': 'BI', 'name': 'Burundi', 'value': 8575172, 'color': layoutColors.danger},
-      {'code': 'KH', 'name': 'Cambodia', 'value': 14305183, 'color': layoutColors.primaryDark},
+      {'code': 'KH', 'name': 'Cambodia', 'value': 14305183, 'color': layoutColors.primaryDark},*/
       {'code': 'CM', 'name': 'Cameroon', 'value': 20030362, 'color': layoutColors.danger},
       {'code': 'CA', 'name': 'Canada', 'value': 34349561, 'color': layoutColors.primary},
-      {'code': 'CV', 'name': 'Cape Verde', 'value': 500585, 'color': layoutColors.danger},
+      {'code': 'CF', 'name': 'Canada2', 'value': 34349561, 'color': layoutColors.primary},
+      /*{'code': 'CV', 'name': 'Cape Verde', 'value': 500585, 'color': layoutColors.danger},
       {'code': 'CF', 'name': 'Central African Rep.', 'value': 4486837, 'color': layoutColors.danger},
       {'code': 'TD', 'name': 'Chad', 'value': 11525496, 'color': layoutColors.danger},
       {'code': 'CL', 'name': 'Chile', 'value': 17269525, 'color': layoutColors.success},
@@ -421,7 +422,7 @@ export class BubbleMapsService {
       {'code': 'VN', 'name': 'Vietnam', 'value': 88791996, 'color': layoutColors.primaryDark},
       {'code': 'YE', 'name': 'Yemen, Rep.', 'value': 24799880, 'color': layoutColors.primaryDark},
       {'code': 'ZM', 'name': 'Zambia', 'value': 13474959, 'color': layoutColors.danger},
-      {'code': 'ZW', 'name': 'Zimbabwe', 'value': 12754378, 'color': layoutColors.danger}
+      {'code': 'ZW', 'name': 'Zimbabwe', 'value': 12754378, 'color': layoutColors.danger}*/
     ];
 
     let minBulletSize = 3
