@@ -18,7 +18,7 @@ export const PAGES_MENU = [
         path: 'editors',
         data: {
           menu: {
-            title: 'Editors',
+            title: 'Nineteenth Century',
             icon: 'ion-edit',
             selected: false,
             expanded: false,
@@ -47,6 +47,62 @@ export const PAGES_MENU = [
             data: {
               menu: {
                 title: '1820',
+              }
+            }
+          },
+          {
+            path: 'eighteenThirty',
+            data: {
+              menu: {
+                title: '1830',
+              }
+            }
+          },
+          {
+            path: 'eighteenFourty',
+            data: {
+              menu: {
+                title: '1840',
+              }
+            }
+          },
+          {
+            path: 'eighteenFifty',
+            data: {
+              menu: {
+                title: '1850',
+              }
+            }
+          },
+          {
+            path: 'eighteenSixty',
+            data: {
+              menu: {
+                title: '1860',
+              }
+            }
+          },
+          {
+            path: 'eighteenSeventy',
+            data: {
+              menu: {
+                title: '1870',
+              }
+            }
+          },
+          {
+            path: 'eighteenEighty',
+            data: {
+              menu: {
+                title: '1880',
+              }
+            }
+          },
+          {
+            path: 'eighteenNinety',
+            data: {
+              menu: {
+                title: '1890',
               }
             }
           }
