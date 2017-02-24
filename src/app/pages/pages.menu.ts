@@ -6,7 +6,7 @@ export const PAGES_MENU = [
         path: 'dashboard',
         data: {
           menu: {
-            title: 'Dashboard',
+            title: 'Introduction',
             icon: 'ion-android-home',
             selected: false,
             expanded: false,
@@ -18,7 +18,7 @@ export const PAGES_MENU = [
         path: 'editors',
         data: {
           menu: {
-            title: 'Nineteenth Century',
+            title: '19th Century',
             icon: 'ion-edit',
             selected: false,
             expanded: false,
@@ -26,14 +26,14 @@ export const PAGES_MENU = [
           }
         },
         children: [
-          {
+          /*{
             path: 'ckeditor',
             data: {
               menu: {
                 title: 'CKEditor',
               }
             }
-          },
+          },*/
           {
             path: 'eighteenTen',
             data: {
