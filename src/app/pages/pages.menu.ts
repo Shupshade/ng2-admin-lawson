@@ -109,6 +109,36 @@ export const PAGES_MENU = [
         ]
       },
       {
+        path: 'twentieth',
+        data: {
+          menu: {
+            title: '20th Century',
+            icon: 'ion-edit',
+            selected: false,
+            expanded: false,
+            order: 100,
+          }
+        },
+        children: [
+          {
+            path: 'eighteenTen',
+            data: {
+              menu: {
+                title: '1810',
+              }
+            }
+          },
+          {
+            path: 'nineteenTwenty',
+            data: {
+              menu: {
+                title: '1920',
+              }
+            }
+          },
+          ]
+      },
+      {
         path: 'components',
         data: {
           menu: {
