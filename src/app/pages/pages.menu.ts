@@ -135,9 +135,15 @@ export const PAGES_MENU = [
                 title: '1920',
               }
             }
-          },
-          ]
-      }/*,
+          }
+        ]
+
+      }
+    ]
+];
+
+
+/*,
       {
         path: 'components',
         data: {
@@ -428,5 +434,5 @@ export const PAGES_MENU = [
         }
       }
     ]
-  }*/
-];
+  }
+];*/
