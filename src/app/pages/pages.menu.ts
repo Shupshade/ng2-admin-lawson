@@ -19,7 +19,7 @@ export const PAGES_MENU = [
         data: {
           menu: {
             title: '19th Century',
-            icon: 'ion-edit',
+            icon: 'ion-gear-a',
             selected: false,
             expanded: false,
             order: 100,
@@ -137,7 +137,7 @@ export const PAGES_MENU = [
             }
           },
           ]
-      },
+      }/*,
       {
         path: 'components',
         data: {
@@ -428,5 +428,5 @@ export const PAGES_MENU = [
         }
       }
     ]
-  }
+  }*/
 ];

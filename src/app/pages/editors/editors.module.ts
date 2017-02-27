@@ -37,7 +37,7 @@ import { EighteenNinety } from './components/eighteenNinety/eighteenNinety.compo
     EighteenFifty,
     EighteenSixty,
     EighteenSeventy,
-    EighteenEighty
+    EighteenEighty,
     EighteenNinety
   ]
 })
