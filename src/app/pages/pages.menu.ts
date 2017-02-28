@@ -35,7 +35,7 @@ export const PAGES_MENU = [
             }
           },*/
           {
-            path: 'twentyTen',
+            path: 'nineteenTen',
             data: {
               menu: {
                 title: '1800-1809',
@@ -43,7 +43,7 @@ export const PAGES_MENU = [
             }
           },
           {
-            path: 'twentyTwenty',
+            path: 'nineteenTwenty',
             data: {
               menu: {
                 title: '1810-1819',
@@ -129,7 +129,7 @@ export const PAGES_MENU = [
         },
         children: [
           {
-            path: 'twentyTen',
+            path: 'nineteenTen',
             data: {
               menu: {
                 title: '1900-1909',
@@ -137,7 +137,7 @@ export const PAGES_MENU = [
             }
           },
           {
-            path: 'twentyTwenty',
+            path: 'nineteenTwenty',
             data: {
               menu: {
                 title: '1910-1919',
@@ -210,11 +210,11 @@ export const PAGES_MENU = [
         ]
       },
       {
-        path: 'twentyfirdt',
+        path: 'twentyfirst',
         data: {
           menu: {
             title: '21st Century',
-            icon: 'ion-edit',
+            icon: 'ion-android-laptop',
             selected: false,
             expanded: false,
             order: 100,
@@ -233,7 +233,7 @@ export const PAGES_MENU = [
             path: 'twentyTwenty',
             data: {
               menu: {
-                title: '2010-2019',
+                title: '2010-2017',
               }
             }
           }
