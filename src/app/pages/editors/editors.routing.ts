@@ -23,14 +23,14 @@ const routes: Routes = [
     children: [
       { path: 'ckeditor', component: Ckeditor },
       { path: 'nineteenTen', component: EighteenTen },
-      { path: 'eighteenTwenty', component: EighteenTwenty  },
+      { path: 'nineteenTwenty', component: EighteenTwenty  },
       { path: 'nineteenThirty', component: EighteenThirty  },
       { path: 'nineteenFourty', component: EighteenFourty  },
       { path: 'nineteenFifty', component: EighteenFifty  },
       { path: 'nineteenSixty', component: EighteenSixty  },
-      { path: 'eighteenSeventy', component: EighteenSeventy  },
+      { path: 'nineteenSeventy', component: EighteenSeventy  },
       { path: 'nineteenEighty', component: EighteenEighty  },
-      { path: 'NineteenNinety', component: EighteenNinety  }
+      { path: 'nineteenNinety', component: EighteenNinety  }
     ]
   }
 ];

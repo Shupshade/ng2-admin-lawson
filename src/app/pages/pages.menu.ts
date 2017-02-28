@@ -43,7 +43,7 @@ export const PAGES_MENU = [
             }
           },
           {
-            path: 'eighteenTwenty',
+            path: 'nineteenTwenty',
             data: {
               menu: {
                 title: '1820',
@@ -99,7 +99,7 @@ export const PAGES_MENU = [
             }
           },
           {
-            path: 'NineteenNinety',
+            path: 'nineteenNinety',
             data: {
               menu: {
                 title: '1890',
