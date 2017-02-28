@@ -1,1 +1,1 @@
-export * from './eighteenFifty.component';
+export * from './nineteenFifty.component';

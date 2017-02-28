@@ -35,7 +35,7 @@ export const PAGES_MENU = [
             }
           },*/
           {
-            path: 'eighteenTen',
+            path: 'nineteenTen',
             data: {
               menu: {
                 title: '1810',
@@ -51,7 +51,7 @@ export const PAGES_MENU = [
             }
           },
           {
-            path: 'eighteenThirty',
+            path: 'nineteenThirty',
             data: {
               menu: {
                 title: '1830',
@@ -59,7 +59,7 @@ export const PAGES_MENU = [
             }
           },
           {
-            path: 'eighteenFourty',
+            path: 'nineteenFourty',
             data: {
               menu: {
                 title: '1840',
@@ -67,7 +67,7 @@ export const PAGES_MENU = [
             }
           },
           {
-            path: 'eighteenFifty',
+            path: 'nineteenFifty',
             data: {
               menu: {
                 title: '1850',
@@ -75,7 +75,7 @@ export const PAGES_MENU = [
             }
           },
           {
-            path: 'eighteenSixty',
+            path: 'nineteenSixty',
             data: {
               menu: {
                 title: '1860',
@@ -83,7 +83,7 @@ export const PAGES_MENU = [
             }
           },
           {
-            path: 'eighteenSeventy',
+            path: 'nineteenSeventy',
             data: {
               menu: {
                 title: '1870',
@@ -91,7 +91,7 @@ export const PAGES_MENU = [
             }
           },
           {
-            path: 'eighteenEighty',
+            path: 'nineteenEighty',
             data: {
               menu: {
                 title: '1880',
@@ -99,7 +99,7 @@ export const PAGES_MENU = [
             }
           },
           {
-            path: 'eighteenNinety',
+            path: 'NineteenNinety',
             data: {
               menu: {
                 title: '1890',
@@ -121,10 +121,10 @@ export const PAGES_MENU = [
         },
         children: [
           {
-            path: 'eighteenTen',
+            path: 'nineteenTen',
             data: {
               menu: {
-                title: '1810',
+                title: '1910',
               }
             }
           },
@@ -135,9 +135,63 @@ export const PAGES_MENU = [
                 title: '1920',
               }
             }
+          },
+          {
+            path: 'nineteenThirty',
+            data: {
+              menu: {
+                title: '1930',
+              }
+            },
+          {
+            path: 'nineteenFourty',
+            data: {
+              menu: {
+                title: '1940',
+              }
+            }
+          },
+          {
+            path: 'nineteenFifty',
+            data: {
+              menu: {
+                title: '1950',
+              }
+            }
+          },
+          {
+            path: 'nineteenSixty',
+            data: {
+              menu: {
+                title: '1960',
+              }
+            }
+          },
+          {
+            path: 'nineteenSeventy',
+            data: {
+              menu: {
+                title: '1970',
+              }
+            }
+          },
+          {
+            path: 'nineteenEighty',
+            data: {
+              menu: {
+                title: '1980',
+              }
+            }
+          },
+          {
+            path: 'nineteenNinety',
+            data: {
+              menu: {
+                title: '1990',
+              }
+            }
           }
         ]
-
       }
     ]
 ];

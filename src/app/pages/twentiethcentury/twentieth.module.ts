@@ -6,15 +6,15 @@ import { NgaModule } from '../../theme/nga.module';
 
 import { routing }       from './twentieth.routing';
 import { Twentieth } from './twentieth.component';
-import { EighteenTen } from './components/eighteenTen/eighteenTen.component';
+import { NineteenTen } from './components/nineteenTen/nineteenTen.component';
 import { NineteenTwenty } from './components/nineteenTwenty/nineteenTwenty.component';
-/*import { EighteenThirty } from './components/eighteenThirty/eighteenThirty.component';
-import { EighteenFourty } from './components/eighteenFourty/eighteenFourty.component';
-import { EighteenFifty } from './components/eighteenFifty/eighteenFifty.component';
-import { EighteenSixty } from './components/eighteenSixty/eighteenSixty.component';
-import { EighteenSeventy } from './components/eighteenSeventy/eighteenSeventy.component';
-import { EighteenEighty } from './components/eighteenEighty/eighteenEighty.component';
-import { EighteenNinety } from './components/eighteenNinety/eighteenNinety.component';*/
+import { NineteenThirty } from './components/nineteenThirty/nineteenThirty.component';
+import { NineteenFourty } from './components/nineteenFourty/nineteenFourty.component';
+import { NineteenFifty } from './components/nineteenFifty/nineteenFifty.component';
+import { NineteenSixty } from './components/nineteenSixty/nineteenSixty.component';
+import { NineteenSeventy } from './components/nineteenSeventy/nineteenSeventy.component';
+import { NineteenEighty } from './components/nineteenEighty/nineteenEighty.component';
+import { NineteenNinety } from './components/nineteenNinety/nineteenNinety.component';
 
 
 
@@ -28,15 +28,15 @@ import { EighteenNinety } from './components/eighteenNinety/eighteenNinety.compo
   ],
   declarations: [
     Twentieth,
-    EighteenTen,
+    NineteenTen,
     NineteenTwenty,
-/*    EighteenThirty,
-    EighteenFourty,
-    EighteenFifty,
-    EighteenSixty,
-    EighteenSeventy,
-    EighteenEighty,
-    EighteenNinety*/
+    NineteenThirty,
+    NineteenFourty,
+    NineteenFifty,
+    NineteenSixty,
+    NineteenSeventy,
+    NineteenEighty,
+    NineteenNinety
   ]
 })
 export class TwentiethModule {

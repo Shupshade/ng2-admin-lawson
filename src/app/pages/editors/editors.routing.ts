@@ -22,15 +22,15 @@ const routes: Routes = [
     component: Editors,
     children: [
       { path: 'ckeditor', component: Ckeditor },
-      { path: 'eighteenTen', component: EighteenTen },
+      { path: 'nineteenTen', component: EighteenTen },
       { path: 'eighteenTwenty', component: EighteenTwenty  },
-      { path: 'eighteenThirty', component: EighteenThirty  },
-      { path: 'eighteenFourty', component: EighteenFourty  },
-      { path: 'eighteenFifty', component: EighteenFifty  },
-      { path: 'eighteenSixty', component: EighteenSixty  },
+      { path: 'nineteenThirty', component: EighteenThirty  },
+      { path: 'nineteenFourty', component: EighteenFourty  },
+      { path: 'nineteenFifty', component: EighteenFifty  },
+      { path: 'nineteenSixty', component: EighteenSixty  },
       { path: 'eighteenSeventy', component: EighteenSeventy  },
-      { path: 'eighteenEighty', component: EighteenEighty  },
-      { path: 'eighteenNinety', component: EighteenNinety  }
+      { path: 'nineteenEighty', component: EighteenEighty  },
+      { path: 'NineteenNinety', component: EighteenNinety  }
     ]
   }
 ];
