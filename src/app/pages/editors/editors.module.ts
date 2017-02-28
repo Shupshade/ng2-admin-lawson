@@ -16,6 +16,8 @@ import { EighteenSixty } from './components/eighteenSixty/eighteenSixty.componen
 import { EighteenSeventy } from './components/eighteenSeventy/eighteenSeventy.component';
 import { EighteenEighty } from './components/eighteenEighty/eighteenEighty.component';
 import { EighteenNinety } from './components/eighteenNinety/eighteenNinety.component';
+import { EighteenNineNine } from './components/eighteenNineNine/eighteenNineNine.component';
+
 
 
 
@@ -38,7 +40,8 @@ import { EighteenNinety } from './components/eighteenNinety/eighteenNinety.compo
     EighteenSixty,
     EighteenSeventy,
     EighteenEighty,
-    EighteenNinety
+    EighteenNinety,
+    EighteenNineNine
   ]
 })
 export class EditorsModule {

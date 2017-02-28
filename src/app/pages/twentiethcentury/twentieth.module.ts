@@ -15,6 +15,7 @@ import { NineteenSixty } from './components/nineteenSixty/nineteenSixty.componen
 import { NineteenSeventy } from './components/nineteenSeventy/nineteenSeventy.component';
 import { NineteenEighty } from './components/nineteenEighty/nineteenEighty.component';
 import { NineteenNinety } from './components/nineteenNinety/nineteenNinety.component';
+import { NineteenNineNine } from './components/nineteenNineNine/nineteenNineNine.component';
 
 
 
@@ -36,7 +37,8 @@ import { NineteenNinety } from './components/nineteenNinety/nineteenNinety.compo
     NineteenSixty,
     NineteenSeventy,
     NineteenEighty,
-    NineteenNinety
+    NineteenNinety,
+    NineteenNineNine
   ]
 })
 export class TwentiethModule {

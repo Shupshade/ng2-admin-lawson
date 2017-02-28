@@ -11,6 +11,8 @@ import { EighteenSixty } from './components/eighteenSixty/eighteenSixty.componen
 import { EighteenSeventy } from './components/eighteenSeventy/eighteenSeventy.component';
 import { EighteenEighty } from './components/eighteenEighty/eighteenEighty.component';
 import { EighteenNinety } from './components/eighteenNinety/eighteenNinety.component';
+import { EighteenNineNine } from './components/eighteenNineNine/eighteenNineNine.component';
+
 
 
 
@@ -30,7 +32,9 @@ const routes: Routes = [
       { path: 'nineteenSixty', component: EighteenSixty  },
       { path: 'nineteenSeventy', component: EighteenSeventy  },
       { path: 'nineteenEighty', component: EighteenEighty  },
-      { path: 'nineteenNinety', component: EighteenNinety  }
+      { path: 'nineteenNinety', component: EighteenNinety  },
+      { path: 'nineteenNineNine', component: EighteenNineNine  }
+
     ]
   }
 ];

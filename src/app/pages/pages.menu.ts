@@ -38,7 +38,7 @@ export const PAGES_MENU = [
             path: 'nineteenTen',
             data: {
               menu: {
-                title: '1810',
+                title: '1800-1809',
               }
             }
           },
@@ -46,7 +46,7 @@ export const PAGES_MENU = [
             path: 'nineteenTwenty',
             data: {
               menu: {
-                title: '1820',
+                title: '1810-1819',
               }
             }
           },
@@ -54,7 +54,7 @@ export const PAGES_MENU = [
             path: 'nineteenThirty',
             data: {
               menu: {
-                title: '1830',
+                title: '1820-1829',
               }
             }
           },
@@ -62,7 +62,7 @@ export const PAGES_MENU = [
             path: 'nineteenFourty',
             data: {
               menu: {
-                title: '1840',
+                title: '1830-1839',
               }
             }
           },
@@ -70,7 +70,7 @@ export const PAGES_MENU = [
             path: 'nineteenFifty',
             data: {
               menu: {
-                title: '1850',
+                title: '1840-1849',
               }
             }
           },
@@ -78,7 +78,7 @@ export const PAGES_MENU = [
             path: 'nineteenSixty',
             data: {
               menu: {
-                title: '1860',
+                title: '1850-1859',
               }
             }
           },
@@ -86,7 +86,7 @@ export const PAGES_MENU = [
             path: 'nineteenSeventy',
             data: {
               menu: {
-                title: '1870',
+                title: '1860-1869',
               }
             }
           },
@@ -94,7 +94,7 @@ export const PAGES_MENU = [
             path: 'nineteenEighty',
             data: {
               menu: {
-                title: '1880',
+                title: '1870-1879',
               }
             }
           },
@@ -102,7 +102,15 @@ export const PAGES_MENU = [
             path: 'nineteenNinety',
             data: {
               menu: {
-                title: '1890',
+                title: '1880-1889',
+              }
+            }
+          },
+          {
+            path: 'nineteenNineNine',
+            data: {
+              menu: {
+                title: '1890-1899',
               }
             }
           }
@@ -124,7 +132,7 @@ export const PAGES_MENU = [
             path: 'nineteenTen',
             data: {
               menu: {
-                title: '1910',
+                title: '1900-1909',
               }
             }
           },
@@ -132,7 +140,7 @@ export const PAGES_MENU = [
             path: 'nineteenTwenty',
             data: {
               menu: {
-                title: '1920',
+                title: '1910-1919',
               }
             }
           },
@@ -140,14 +148,14 @@ export const PAGES_MENU = [
             path: 'nineteenThirty',
             data: {
               menu: {
-                title: '1930',
+                title: '1920-1929',
               }
             },
           {
             path: 'nineteenFourty',
             data: {
               menu: {
-                title: '1940',
+                title: '1930-1939',
               }
             }
           },
@@ -155,7 +163,7 @@ export const PAGES_MENU = [
             path: 'nineteenFifty',
             data: {
               menu: {
-                title: '1950',
+                title: '1940-1949',
               }
             }
           },
@@ -163,7 +171,7 @@ export const PAGES_MENU = [
             path: 'nineteenSixty',
             data: {
               menu: {
-                title: '1960',
+                title: '1950-1959',
               }
             }
           },
@@ -171,7 +179,7 @@ export const PAGES_MENU = [
             path: 'nineteenSeventy',
             data: {
               menu: {
-                title: '1970',
+                title: '1960-1969',
               }
             }
           },
@@ -179,7 +187,7 @@ export const PAGES_MENU = [
             path: 'nineteenEighty',
             data: {
               menu: {
-                title: '1980',
+                title: '1970-1979',
               }
             }
           },
@@ -187,7 +195,15 @@ export const PAGES_MENU = [
             path: 'nineteenNinety',
             data: {
               menu: {
-                title: '1990',
+                title: '1980-1989',
+              }
+            }
+          },
+          {
+            path: 'nineteenNineNine',
+            data: {
+              menu: {
+                title: '1990-1999',
               }
             }
           }
